@@ -8,9 +8,9 @@ class Scraper {
 
     static String[] prefixes = new String[] 
     {"MC", "WJ", "SB", "BG", "BS", "WS", "AKHD", "LP", "QA", "GO", "PJ", "SWSB", "CH", "MP",
-     "TP", "MO", "Va", "JP", "LLP", "P-W", "P-S", "MG", "SH", "SPS", "HP", "WO", "CDO", "MCS",
-      "NEHW", "NEPP", "NESF", "OJW", "SG", "PPJ", "EOSG", "EOSJ", "EOSP", "SONH", "GCPH", "ACPH",
-       "EBG", "EBS", "EBW", "EBE", "HI-G", "HI-S", "HI-W", "HI-F"};
+     "TP", "MO", "JP", "LLP", "P-W", "P-S", "MG", "SH", "SPS", "HP", "WO", "CDO", "MCS", "NEHW",
+      "NEPP", "NESF", "OJW", "SG", "PPJ", "EOSG", "EOSJ", "EOSP", "SONH", "GCPH", "ACPH", "EBG", "EBS",
+       "EBW", "EBE", "HI-G", "HI-S", "HI-W", "HI-F"};
 
     public static void main(String args[]) {
         try {
